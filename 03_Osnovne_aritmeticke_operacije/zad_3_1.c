@@ -1,5 +1,5 @@
-/* Napisati program koji ucitava dva cijela broja te ispisuje njihov zbroj i razliku u decimalnom, oktalnom i heksadecimalnom zapisu.
-Rezultate ispisati tablicno tako da svaki ispisani rezultat zauzima najmanje 10 mjesta.
+/* Napisite program koji ucitava dva cijela broja te ispisuje njihov zbroj i razliku u decimalnom, oktalnom i heksadecimalnom zapisu.
+Rezultate treba ispisati tablicno tako da svaki ispisani rezultat zauzima najmanje 10 mjesta.
 Pretpostavljamo da su brojevi takvi da su im zbroj i razlika nenegativni cijeli brojevi. */
 
 #include <stdio.h>

@@ -1,6 +1,6 @@
-/* Napisati program koji ucitava pocetnu cijenu proizvoda u eurima i postotak popusta.
+/* Napisite program koji ucitava pocetnu cijenu proizvoda u eurima i postotak popusta.
 Program treba izracunati iznos popusta te konacnu cijenu proizvoda nakon popusta.
-Sve rezultate ispisati na dvije decimale. 
+Sve rezultate potrebno je ispisati zaokruzeno na dvije decimale. 
 Kod ispisa postotka potrebno je ispisati i znak \%. */
 
 #include <stdio.h>
@@ -23,6 +23,7 @@ int main(void) {
 
     return 0;
 }
+
 /* NAPOMENE:
 1. '.2' u %.2f daje ispis floata zaokruzen na dvije decimale.
 2. '%%' daje ispis znaka '%'.

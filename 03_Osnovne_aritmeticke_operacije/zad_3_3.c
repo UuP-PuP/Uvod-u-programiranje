@@ -1,5 +1,6 @@
-/* Ucitati realne x i y i izracunati vrijednost polinoma 
-p(x,y)=x^3y - 2xy^2 + 1. */
+/* Napisite program koji ucitava realne brojeve x i y te ispisuje vrijednost 
+    polinoma p(x,y)=x^3y-2xy^2+1. 
+*/
 
 #include <stdio.h>
 

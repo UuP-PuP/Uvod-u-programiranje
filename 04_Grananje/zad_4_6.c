@@ -30,6 +30,5 @@ int main(void){
 
 /* NAPOMENE:
   - varijabla za_izvaditi "zivi" samo unutar else bloka (ne mozemo ju koristiti izvan tog bloka)
-  - ako ispustimo vitičaste zagrade kod else bloka, samo prva naredba se smatra dijelom else bloka, sve ostalo se izvršava uvijek
-
+  - ako ispustimo vitičaste zagrade kod else bloka, samo prva naredba smatra se dijelom else bloka, sve ostalo se izvršava uvijek
 */

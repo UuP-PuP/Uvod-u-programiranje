@@ -15,7 +15,7 @@ int main(void){
 }
 
 /* NAPOMENE:
-    - ako u liniji 7 napisemo if(r = 0), ovo nije testiranje jednakosti nego pridruzivanje vrijednosti.
+    - ako u liniji 9 napisemo if(r = 0), ovo nije testiranje jednakosti nego pridruzivanje vrijednosti.
         Sada varijabla r postaje 0. Ono sto je vaznije je da izraz r = 0 vraća vrijednost pridruživanja (a to je 0).
         Stoga bi onda uvijek bilo if(0)
     - else mozemo izostaviti. To radimo kad zelimo nesto izvrsiti pod nekim uvjetom, inace nastavljamo dalje s izvrsavanjem koda

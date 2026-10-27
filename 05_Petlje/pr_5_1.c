@@ -1,3 +1,7 @@
+/*  Odredite vrijednost varijable x u svakom trenutku izvrsavanja sljedeceg programa. 
+    Odredite sto ce program ispisati.
+*/
+
 #include <stdio.h>
 
 int main(void) {

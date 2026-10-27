@@ -1,3 +1,5 @@
+// Korisnik unosi cijele brojeve sve dok ne unese 0. Treba ispisati prosjek unesenih brojeva (racunajuci i 0).
+
 #include <stdio.h>
 
 int main(void) {
@@ -13,3 +15,16 @@ int main(void) {
     printf("Prosjek je %lf", av);
     return 0;
 }
+
+
+/* NAPOMENA:
+    - umjesto do while petlje, mogli smo koristiti while petlju. Tada bi kod bio sljedeci:
+        while(1){
+            printf("Unesite cijeli broj: ");
+            scanf("%d", &n);
+            ++brojac;
+            sum += n;
+            if(n == 0)
+                break;
+        }
+*/ 

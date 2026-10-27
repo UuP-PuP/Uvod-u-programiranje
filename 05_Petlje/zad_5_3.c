@@ -1,3 +1,5 @@
+// Napisite program koji ispisuje sve znamenke unesenog prirodnog broja krenuvsi sa najznacajnijom znamenkom.
+
 #include <stdio.h>
 
 int main(void){

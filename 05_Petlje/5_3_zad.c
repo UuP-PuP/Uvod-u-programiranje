@@ -10,7 +10,7 @@ int main(void){
         djelitelj *= 10;
     while(djelitelj > 0){
         printf("%d\n", n/djelitelj);
-        n %= djelitej;
+        n %= djelitelj;
         djelitelj /= 10;
     }
     return 0;

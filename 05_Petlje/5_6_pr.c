@@ -13,7 +13,7 @@ int main(void){
             break;
         }
     if(prost && n > 1) printf("%d je prost", n);
-    else printf("%d nije prost broj");
+    else printf("%d nije prost broj", n);
     return 0;
 }
 

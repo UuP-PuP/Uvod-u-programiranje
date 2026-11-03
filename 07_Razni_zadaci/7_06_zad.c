@@ -1,3 +1,7 @@
+/* Napisite program koji unosi prirodne brojeve n i b (pri cemu je b >= 2). 
+   Program treba ispisati koliko znamenaka ima zapis broja n u bazi b.
+*/
+
 #include <stdio.h>
 
 int main(void){

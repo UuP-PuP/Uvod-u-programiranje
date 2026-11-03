@@ -1,3 +1,7 @@
+/* Napisite program koji za unesene prirodne brojeve n i k racuna binomni koeficijent n povrh k.
+   Podsjetnik (n povrh k) = n!/(k!(n-k)!) 
+*/
+
 #include <stdio.h>
 
 int main(void){
@@ -20,3 +24,12 @@ int main(void){
     printf("%d povrh %d: %u", n, k, brojnik/nazivnik);
     return 0;
 }
+
+/* Napomene:
+    - budući da faktorijele mogu biti velike vrijednosti, nije optimalno računati binomni koeficijent po definiciji
+    - bolje je izraz n!/(k!(n-k)!) skratiti, čime dobivamo
+        (n(*n-1)*...*(n+1))/((n-k)!)
+                    ili
+        (n(*n-1)*...*(n-k+1))/(k!)
+     ovisno o tome je li k < n-k ili k>= n-k
+*/

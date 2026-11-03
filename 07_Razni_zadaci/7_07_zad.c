@@ -1,3 +1,8 @@
+/* Napisite program koji ucitava prirodni broj b (pri cemu je b >= 2). 
+   Zatim program ucitava prirodne brojeve sve dok se ne unese 0. 
+   Za svaki uneseni broj (osim 0) treba ispisati zbroj njegovih znamenaka u bazi b.
+*/
+
 #include <stdio.h>
 
 int main(void){

@@ -1,3 +1,8 @@
+/* Napisite program koji za unesene prirodne brojeve a < b ispisuje sve prirodne brojeve iz intervala [a,b]
+   koji su potpuni kvadrati. Za x kazemo da je potpuni kvadrat ako postoji y takav da je x = y^2.
+
+*/
+
 #include <stdio.h>
 
 int main(void){
@@ -15,3 +20,7 @@ int main(void){
     }
     return 0;
 }
+
+/* Napomene:
+    - Uočimo da se break odnosi samo na najblizu petlju u kojoj se nalazi (u ovom slučaju j-petlju). Analogno vrijedi i za continue.
+*/

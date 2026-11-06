@@ -9,6 +9,11 @@ Sve povratne informacije, uključujući uočene greške i prijedloge za poboljš
 
 ## Povijest izmjena
 
+**6.11.2026.**
+
+- u sedmo poglavlje dodano je pet novih zadataka
+- dodano je osmo poglavlje (`Nizovi`)
+
 **3.11.2026.**
 
 - reorganizacija skripte i kodova: dva zadatka koja uključuju `swith case` naredbu su premještena u šesto poglavlje (`Višestruko grananje`), a sedam zadataka premješteno je u sedmo poglavlje (`Razni zadaci`)

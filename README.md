@@ -9,6 +9,11 @@ Sve povratne informacije, uključujući uočene greške i prijedloge za poboljš
 
 ## Povijest izmjena
 
+**13.11.2026.**
+
+- u osmo poglavlje dodana su četiri zadatka (zadaci s višedimenzionalnim nizovima)
+- dodani su komantari i dodatna objašnjenja u zadatke iz šestog poglavlja
+
 **6.11.2026.**
 
 - u sedmo poglavlje dodano je pet novih zadataka
